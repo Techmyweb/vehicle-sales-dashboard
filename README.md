@@ -28,7 +28,7 @@ This project is a comprehensive **Excel dashboard** that analyzes vehicle sales 
 
 ## Dashboard Preview
 
-![Dashboard Preview](Vehicle_Dashboard_Sales.png)
+![Dashboard Preview](images/Vehicle_Dashboard_Sales.png)and 
 
 ---
 
